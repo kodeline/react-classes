@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  background: rgb(22, 22, 22);
+}
+
+#container {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+  margin-top: 10%;
+  padding: 40px 20px;
+  background: #fff;
+  border-radius: 5px;
+}
+
+form {
+  width: 100%;
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 30px;
+  background: #fff;
+  border-radius: 4px;
+}
+
+h3 {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+#enviar {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: none;
+  background-color: #a42654;
+  color: white;
+  border-radius: 30px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+.posts {
+  width: 100%;
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 30px;
+  background: #fff;
+  border-radius: 4px;
+}
+
+#ver {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: none;
+  background-color: #a42654;
+  color: white;
+  border-radius: 30px;
+  box-sizing: border-box;
+  font-size: 16px;
+}

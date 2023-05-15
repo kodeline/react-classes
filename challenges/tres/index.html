@@ -1,0 +1,52 @@
+<!-- Instrucciones 
+    
+Tomar información de un formulario hecho en HTML y con la información recolectada del formulario, 
+mostrarla en nuestro HTML. En este caso vamos a usar una API 
+(https://jsonplaceholder.typicode.com/posts/1), la cual sirve para devolver datos aleatorios. 
+En nuestro caso la usaremos para aplicar nuestra peticion POST y así poder mostrarlo en nuestro 
+index, suerte! -->
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Desafio Tres</title>
+  </head>
+  <body>
+  
+    <!-- form para agregar los post y usar el fetch -->
+    <div id="container">  
+      <form id="formulario" method="post">
+        <h3>Registro de Posts</h3>
+        <input 
+          type="text" 
+          name="titulo" 
+          placeholder="Titulo" 
+          id="titulo" 
+        />
+        <input 
+          type="text" 
+          name="autor" 
+          placeholder="Autor" 
+          id="autor" 
+        />
+        <input
+          type="text"
+          name="contenido"
+          placeholder="Contenido"
+          id="contenido"
+        />
+        <input type="button" value="Postear" id="enviar" />
+      </form>
+
+      <input type="button" value="Ver todos los Posteos" id="ver" />
+
+      <!-- div para mostrar los posteos -->
+      <div id="posts"></div>
+    </div>
+  </body>
+  <script src="main.js"></script>
+</html>
