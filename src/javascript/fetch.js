@@ -1,4 +1,4 @@
-//Clase 3
+// Clase 3 de React 
 
 // Ejemplo 1 de fetch ----------------------
 /*

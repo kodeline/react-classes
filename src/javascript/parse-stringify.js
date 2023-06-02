@@ -1,4 +1,4 @@
-//Clase 1
+// Clase 1 de React 
 
 const persona = {
 	nombre: "Juan",

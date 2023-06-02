@@ -1,13 +1,14 @@
-import Hooks from './components/Hooks'
+import Fetch from './components/Fetch'
+
 
 function App() {
+
   return (
     <>
-      <h2>React Classes</h2>
-      <Hooks/>
+      <h1>React Classes</h1>
+      <Fetch />
     </>
-    
-    
+     
   )
 }
 

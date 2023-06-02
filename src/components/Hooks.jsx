@@ -1,5 +1,6 @@
 // Clase 6 de React 
 import { useState, useEffect } from "react";
+
 function Hooks() {
   
   const [contador, setContador] = useState(0)

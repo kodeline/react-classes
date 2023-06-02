@@ -1,4 +1,4 @@
-//Clase N° 2
+// Clase 2 de React 
 
 // Meotodo Map() ---------------------------------
 const nombres = ['Juan', 'Pedro', 'Marta'];
