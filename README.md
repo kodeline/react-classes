@@ -1,7 +1,7 @@
 # Clases de React JS
 Repo para repasar lo que se ha visto en el curso  de react para mis estudiantes 
 
-![RealWorld Example Applications](media/realworld-dual-mode.png)
+![RealWorld Example Applications]
 
 <p align="center" style="margin-top: 30px;">
 
@@ -9,7 +9,7 @@ Repo para repasar lo que se ha visto en el curso  de react para mis estudiantes
 
 
 
-### See how _the exact same_ Medium.com clone  is built using differentand Yes, you can mix and match them, because **they all adhere to the same 😮😎
+## See how _the exact same_ Medium.com clone  is built using differentand Yes, you can mix and match them, because **they all adhere to the same 😮😎
 
 While most "todo" demos provide an excellent cursory glance at a framework's capabilities, they typically don't convey the knowledge & perspective required to actually build _real_ applications with it.
 
@@ -19,8 +19,6 @@ While most "todo" demos provide an excellent cursory glance at a framework's cap
 # Clase Dos
 
 Over 100 implementations have been created using various languages, libraries, and frameworks.
-
-Explore them on [**CodebaseShow**](https://codebase.show/projects/realworld).
 
 # Create a new implementation
 
