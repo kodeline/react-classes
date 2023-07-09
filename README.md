@@ -4,7 +4,7 @@ Repo para repasar lo que se ha visto en el curso  de react para mis estudiantes
 ![RealWorld Example Applications](media/realworld-dual-mode.png)
 
 <p align="center" style="margin-top: 30px;">
-<img src="media/stacks_hr.gif"  />
+<img src=""/>
 </p>
 
 <a href="https://demo.realworld.io/"><img src="media/conduit_l.png" align="right" width="250px" /></a>
@@ -41,16 +41,3 @@ Or you can [view upcoming implementations (WIPs)](https://github.com/gothinkster
 
 # Active Maintainers
 
-#### [Gérôme Grignon](https://github.com/geromegrignon) - Maintainer
-
-<img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/32737308?v=4">
-
-Gérôme is a Software Engineer at Sfeir. He's an open-source enthusiast.<br /><br />
-
-#### [Manuel Vila](https://github.com/mvila) - Maintainer
-
-<img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/381671?v=40">
-
-Manuel is an independent Software Engineer, creator of the [Layr framework](https://layrjs.com) and the [CodebaseShow website](https://codebase.show/).<br /><br />
-
-[![Brought to you by Thinkster](media/end.png)](https://thinkster.io)
