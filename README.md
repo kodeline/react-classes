@@ -1,4 +1,4 @@
-# react-classes
+# Clases de React JS
 Repo para repasar lo que se ha visto en el curso  de react para mis estudiantes 
 
 ![RealWorld Example Applications](media/realworld-dual-mode.png)
