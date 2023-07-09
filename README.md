@@ -7,7 +7,7 @@ Repo para repasar lo que se ha visto en el curso  de react para mis estudiantes
 <img src=""/>
 </p>
 
-<a href="https://demo.realworld.io/"><img src="media/conduit_l.png" align="right" width="250px" /></a>
+
 
 ### See how _the exact same_ Medium.com clone (called [Conduit](https://demo.realworld.io)) is built using different [frontends](https://codebase.show/projects/realworld?category=frontend) and [backends](https://codebase.show/projects/realworld?category=backend). Yes, you can mix and match them, because **they all adhere to the same [API spec](https://realworld-docs.netlify.app/docs/specs/backend-specs/introduction)** 😮😎
 
@@ -17,7 +17,6 @@ While most "todo" demos provide an excellent cursory glance at a framework's cap
 
 _Read the [full blog post announcing RealWorld on Medium.](https://medium.com/@ericsimons/introducing-realworld-6016654d36b5)_
 
-Join us on [GitHub Discussions!](https://github.com/gothinkster/realworld/discussions) 🎉
 
 # Implementations
 
@@ -33,11 +32,11 @@ Or you can [view upcoming implementations (WIPs)](https://github.com/gothinkster
 
 # Learn more
 
-- ["Introducing RealWorld 🙌"](https://medium.com/@ericsimons/introducing-realworld-6016654d36b5) by Eric Simons
+- ["Introducing RealWorld 🙌"]
 - Every tutorial is built against the same [API spec](api/) to ensure modularity of every frontend & backend
-- Every frontend utilizes the same handcrafted [Bootstrap 4 theme](https://github.com/gothinkster/conduit-bootstrap-template) for identical UI/UX
+- Every frontend utilizes the same handcrafted for identical UI/UX
 - There is a hosted version of the backend API available for public usage, no API keys are required
-- Interested in creating a new RealWorld stack? View our [starter guide & spec](https://realworld-docs.netlify.app/docs/implementation-creation/introduction)
+- Interested in creating a new RealWorld stack? 
 
 # Active Maintainers
 
