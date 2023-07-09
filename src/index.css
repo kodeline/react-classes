@@ -27,3 +27,14 @@ body {
 li {
   list-style: none;
 }
+
+input {
+  color: whitesmoke;
+}
+
+button {
+  background-color: rgb(86, 116, 236);
+  border: none;
+  margin-left: 20px;
+  padding: 10px;
+}
