@@ -7,8 +7,6 @@ Repo para repasar lo que se ha visto en el curso  de react para mis estudiantes
 
 </p>
 
-
-
 ## See how _the exact same_ Medium.com clone  is built using differentand Yes, you can mix and match them, because **they all adhere to the same 😮😎
 
 While most "todo" demos provide an excellent cursory glance at a framework's capabilities, they typically don't convey the knowledge & perspective required to actually build _real_ applications with it.
@@ -21,8 +19,6 @@ While most "todo" demos provide an excellent cursory glance at a framework's cap
 Over 100 implementations have been created using various languages, libraries, and frameworks.
 
 # Create a new implementation
-
-
 
 
 # Learn more
